@@ -31,4 +31,5 @@ You can delete all Haven data at any time by:
 For privacy questions: [cesarlugom@gmail.com]
 
 ## Changes
-We will update this policy if Haven's data practices change. The current version is always available at https://github.com/cesarlugom/haven-software-legal/blob/main/privacy_policy.md
+We will update this policy if Haven's data practices change. The current version is always available at 
+https://cesarlugom.github.io/haven-software-legal/privacy_policy
