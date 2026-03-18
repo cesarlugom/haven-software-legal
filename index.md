@@ -28,7 +28,7 @@ You can delete all Haven data at any time by:
 2. Deleting %APPDATA%/Haven/ and %USERPROFILE%/.haven_staging/
 
 ## Contact
-For privacy questions: [cesarlugom@gmail.com]
+For privacy questions: cesarlugom@gmail.com
 
 ## Changes
 We will update this policy if Haven's data practices change. The current version is always available at 
